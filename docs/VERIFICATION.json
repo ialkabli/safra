@@ -1,0 +1,15 @@
+{
+  "project": "safra",
+  "date": "2026-11-06",
+  "apk_build": "passed: javac + Android SDK AAPT2 + D8 + zipalign + apksigner",
+  "apk_signature_v2_v3": "verified",
+  "pure_java_checks": 14,
+  "pure_java_result": "passed",
+  "android_instrumentation_groups": 7,
+  "android_instrumentation_result": "pending: emulator unavailable in current execution environment",
+  "visual_device_review": "pending",
+  "gradle_build": "blocked by directory canWrite check in restricted execution environment; Gradle project included for Android Studio",
+  "apk_bytes": 115361,
+  "apk_sha256": "f4f5dac6688942efb03f881b0415a606076fbb631f4e3b9ea1da6c3fbac1bb2b",
+  "publishing": "none"
+}
